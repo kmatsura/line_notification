@@ -17,7 +17,6 @@ class LineNotificator:
 
 
 if __name__=="__main__":
-    USER_ID = "U0cb81f931a62c5567a15174a1fe6c11a"
     ln = LineNotificator()
     ln.send_message("test")
 
